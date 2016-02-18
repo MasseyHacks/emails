@@ -1,0 +1,2 @@
+- resources to download (Need from Jeffrey and Michael)
+- that facebook post and [this] (http://mentoring.pennapps.com/guide/)
