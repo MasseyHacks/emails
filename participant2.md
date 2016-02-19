@@ -1,2 +1,2 @@
 - resources to download (Need from Jeffrey and Michael)
-- that facebook post and [this] (http://mentoring.pennapps.com/guide/)
+- that facebook [post] (https://www.facebook.com/groups/hackathonhackers/permalink/1197709056951244/) and [this] (http://mentoring.pennapps.com/guide/)
