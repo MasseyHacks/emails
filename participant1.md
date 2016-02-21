@@ -7,3 +7,4 @@ Send to all official and unofficial hackers
 - let them know that an email regarding software and versions will follow
 - how to get to venue
 - where to enter
+- clarifications for FAQ (team formation, etc.)
