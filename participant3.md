@@ -1,4 +1,5 @@
 - prizes & judges (thanks to UWindsor CS woo)
+- masseyhacks.devpost.com
 - go over team size 
 - reminder about the event
 - should be sent a few days before the event
